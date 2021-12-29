@@ -1,0 +1,14 @@
+h1, h2, p {
+    text-align: center;
+}
+
+#image{
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    display: block;
+    margin: auto;
+}
+body {
+    background-color: mediumseagreen;
+}
